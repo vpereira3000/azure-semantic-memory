@@ -1,0 +1,4 @@
+azure-ai-inference
+azure-cosmos
+azure-identity
+python-dotenv
